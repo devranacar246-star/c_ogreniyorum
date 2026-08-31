@@ -5,7 +5,7 @@
 ```c
 #include <stdio.h>
 #include <stdlib.h>
-´´´
+```
 
 - int main () ana fonksiyondur ve c dilinde diğer yazılacak fonksiyonlar ana fonksiyonun içine yazılır
 
@@ -21,7 +21,7 @@ int main()
     printf("hello world!\n");
     return 0;
 }
-´´´
+``´´´``
 
 - C dilinde kodlar arasında boşlukların kullanılması kod okunabilirliği için kullanılır çünkü c dilinde boşluklar makine diline aktarılmaz.
 
