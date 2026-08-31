@@ -21,7 +21,7 @@ int main()
     printf("hello world!\n");
     return 0;
 }
-``´´´``
+```
 
 - C dilinde kodlar arasında boşlukların kullanılması kod okunabilirliği için kullanılır çünkü c dilinde boşluklar makine diline aktarılmaz.
 
