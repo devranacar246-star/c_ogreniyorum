@@ -77,8 +77,8 @@ int main()
 
 ## Escape sequences
 
-- '\n' --> Yeni satır. İmleci bir sonraki satırın başına konumlandırır.
-- '\b' --> Backspace tuşunun işlevini gerçekleştir.
-- '\t' --> Yatay sekme. İmleci bir sonraki sekme durağına hareket ettirir.
-- '\\"' --> Çift tırnak işaretini basar. Makinenin tırnağı bir kod olarak okumaması için çok önemli!
-- '\\\' --> Ters bölü işaretini ekrana basar.Bu da makinenin bir kod olarak algılamaması için önemli!
+- `\n` --> Yeni satır. İmleci bir sonraki satırın başına konumlandırır.
+- `\b` --> Backspace tuşunun işlevini gerçekleştir.
+- `\t` --> Yatay sekme. İmleci bir sonraki sekme durağına hareket ettirir.
+- `\"` --> Çift tırnak işaretini basar. Makinenin tırnağı bir kod olarak okumaması için çok önemli!
+- `\\` --> Ters bölü işaretini ekrana basar.Bu da makinenin bir kod olarak algılamaması için önemli!
